@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Errors Guide</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>CSS Errors</h1>
+        <p class="subtitle">Common Mistakes in CSS and How to Avoid Them</p>
+    </header>
+
+    <section class="content">
+
+        <!-- Missing Semicolon -->
+        <div class="card">
+            <h2>1. Missing Semicolons</h2>
+            <p>Forgetting a semicolon at the end of a property can break your style rule.</p>
+
+            <h3>❌ Wrong</h3>
+            <pre><code>.bad {
+  color: red
+  background-color: blue;
+}</code></pre>
+
+            <h3>✅ Correct</h3>
+            <pre><code>.good {
+  color: red;
+  background-color: blue;
+}</code></pre>
+        </div>
+
+        <!-- Invalid Property Names -->
+        <div class="card">
+            <h2>2. Invalid Property Names</h2>
+            <p>Misspelled or non-existent properties are ignored by the browser.</p>
+
+            <h3>❌ Wrong</h3>
+            <pre><code>.bad {
+  colr: blue;
+  font-size: 16px;
+}</code></pre>
+
+            <h3>✅ Correct</h3>
+            <pre><code>.good {
+  color: blue;
+  font-size: 16px;
+}</code></pre>
+        </div>
+
+        <!-- Invalid Values -->
+        <div class="card">
+            <h2>3. Invalid Values</h2>
+            <p>A valid property but invalid value will also be ignored.</p>
+
+            <h3>❌ Wrong</h3>
+            <pre><code>.bad {
+  width: -100px;
+  color: green;
+}</code></pre>
+
+            <h3>✅ Correct</h3>
+            <pre><code>.good {
+  width: 100px;
+  color: green;
+}</code></pre>
+        </div>
+
+        <!-- Unclosed Braces -->
+        <div class="card">
+            <h2>4. Unclosed Braces</h2>
+            <p>If a curly brace <code>}</code> is missing, the rule becomes invalid.</p>
+
+            <h3>❌ Wrong</h3>
+            <pre><code>.bad {
+  padding: 20px;
+  margin: 10px;
+</code></pre>
+
+            <h3>✅ Correct</h3>
+            <pre><code>.good {
+  padding: 20px;
+  margin: 10px;
+}</code></pre>
+        </div>
+
+        <!-- Extra Colons or Braces -->
+        <div class="card">
+            <h2>5. Extra Colons or Braces</h2>
+            <p>Extra symbols such as double colons cause CSS to break.</p>
+
+            <h3>❌ Wrong</h3>
+            <pre><code>.bad {
+  color:: blue;
+}</code></pre>
+
+            <h3>✅ Correct</h3>
+            <pre><code>.good {
+  color: blue;
+}</code></pre>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>© 2025 CSS Error Guide | Built with HTML & CSS</p>
+    </footer>
+
+</body>
+</html>
