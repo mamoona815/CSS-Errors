@@ -3,13 +3,13 @@ CSS Errors Guide
 A beginner-friendly webpage that explains the most common CSS mistakes and how to fix them. Perfect for learners who want to understand CSS better and write cleaner, error-free code.
 
 
-<img width="1920" height="1080" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/7cf3cb09-96b1-47b4-8795-735aaa358efa" />
-<img width="1920" height="1080" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/0d322010-f866-401e-b607-087d690509fb" />
-<img width="1920" height="1080" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/0462dd37-2c5f-4bc8-ac6f-a6dcade62b65" />
-<img width="1920" height="1080" alt="Screenshot (365)" src="https://github.com/user-attachments/assets/71c99c5d-1836-45ee-bcab-bd89fcf950b2" />
-<img width="1920" height="1080" alt="Screenshot (364)" src="https://github.com/user-attachments/assets/a0c7c027-0005-4600-8b1b-719809d29e46" />
-<img width="1920" height="1080" alt="Screenshot (363)" src="https://github.com/user-attachments/assets/34fe2706-9ebf-49e2-9afa-bd0ff4067dcb" />
-<img width="1920" height="1080" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/85f54cf1-c635-4291-b128-e2cd27149bc1" />
+<img width="1896" height="948" alt="Screenshot (363)" src="https://github.com/user-attachments/assets/fb92676d-b074-4032-8fe4-af64aeaaabd3" />
+<img width="1887" height="915" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/bfa09bed-710e-47e6-9d89-5cb065a60d98" />
+<img width="1882" height="862" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/982b6d7b-5998-417a-bef3-1a560b5cf853" />
+<img width="1867" height="911" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/dd0927fb-ecad-4f7d-a869-816ff836f95b" />
+<img width="1880" height="911" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/a691e135-d59c-43aa-85f4-e0c50c13d678" />
+<img width="1825" height="867" alt="Screenshot (365)" src="https://github.com/user-attachments/assets/6dd23974-9b8a-41a4-b418-84936523221d" />
+
 
 
 Highlights common CSS mistakes:
